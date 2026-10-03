@@ -1,0 +1,5 @@
+(i) How many total ingredients are there?: 41,000+
+(ii) How many total finished products are there?: 21,000+
+(iii) How many companies have herbs and spices?: 399
+(iv) How many companies have physical delivery formats?: 764
+(v) How many companies are in Cognitive & Mental Health?: 590
