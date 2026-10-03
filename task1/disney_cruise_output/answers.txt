@@ -1,0 +1,10 @@
+Relu Consultancy - Data Extraction Challenge
+==============================================
+
+(i) How many total cruises are there for the Pacific as a destination? 7
+(ii) How many total cruises are there? 46
+(iii) How many holiday cruises are there? 15
+(iv) How many cruises offer more than 2 dates for booking? 23
+(v) Miami departure cruises: 0
+    London departure cruises: 0
+    Combined Miami + London: 0
